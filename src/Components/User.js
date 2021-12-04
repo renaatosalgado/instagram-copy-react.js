@@ -22,4 +22,3 @@ export default function User() {
         <UserInfo name={userData.name} img={userData.img} nickName={userData.nickName} />
     );
 }
-
